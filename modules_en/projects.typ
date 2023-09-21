@@ -23,6 +23,20 @@
   description: list(
     [This was the project for our basic-programming course.],
     [Implemented using SDL and Dear ImGui libraries in C++.],
+    [#image("../src/projects/gameplay.png")]
+  )
+)
+
+#cvEntry(
+  title: [Path Tracing Tay-Tracer],
+  society: [er888kh/ptrt],
+  date: [2022],
+  location: [Github],
+  description: list(
+    [A simple path tracer implemented in pure C++.],
+    [Using various statistical and SIMD tricks to improve performance],
+    [Parallel processing implemented using OpenMP],
+    [#image("../src/projects/ptrt-week1.jpeg")]
   )
 )
 
