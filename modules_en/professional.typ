@@ -66,6 +66,7 @@
           - Protobuf
           - Nginx
       ],
-      [#image("../src/projects/solar-plant.jpg")]
+      [#image("../src/projects/solar-plant.jpg")],
+      [#image("../src/projects/ntcsolar.png")]
     )
 )
