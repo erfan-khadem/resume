@@ -11,7 +11,7 @@
     [Implement advanced graph algorithms such as centroid decomposition and max-flow.],
     [Implement various cryptographic algorithms including Salsa20 and HMAC.],
     [Improve and optimize the implementation of various algorithms like SHA256 and DSU.],
-    [Various other improvments and implementation.]
+    [Many other big and small improvements and implementation.]
   )
 )
 
@@ -24,7 +24,6 @@
     [Implemented in go with the user management componenet written in python.],
     [Has been used successfully for bypassing GFW restrictions in Iran and bringing internet freedom to the citizens.],
     [Integrated in hiddify's excellent GFW bypass solution.],
-    [This has been implemented with great care regarding its security and performance and uses redis as its database]
   )
 )
 
@@ -35,14 +34,14 @@
   location: [Github],
   description: list(
     [A simple path tracer implemented in pure C++.],
-    [Using various statistical and SIMD tricks to improve performance],
-    [Parallel processing implemented using OpenMP],
+    [Using various statistical and SIMD tricks to improve performance.],
+    [Parallel processing implemented using OpenMP.],
     //[#image("../src/projects/ptrt-week1.jpeg")]
   )
 )
 
 #cvEntry(
-  title: [Jungle Marble Blast Clone],
+  title: [Jungle Marble Blast Game Clone],
   society: [#link("github.com/er888kh/bp-cpp", [#underline("bp-cpp")])],
   date: [2023],
   location: [Github],

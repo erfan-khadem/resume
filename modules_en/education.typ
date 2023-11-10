@@ -9,8 +9,8 @@
     location: [Tehran, Iran],
     logo: "../src/logos/sharif.png",
     description: list(
-      [Courses: Realtime Embedded Systems #hBar() Operating Systems #hBar() Cryptography #hBar() Advanced Programming],
-      [GPA: 18.07 / 20 #hBar() Department Average: 15.72]
+      [Optional Courses: Realtime Embedded Systems #hBar() Operating Systems #hBar() Cryptography #hBar() Advanced Programming],
+      [GPA: 18.07 #hBar() Department Average: 15.72 / 20]
     )
 )
 
@@ -21,7 +21,7 @@
     location: [Shiraz, Iran],
     logo: "../src/logos/nodet.png",
     description: list(
-      [Shahid Dastgheib 1 highschool is under the supervision of NODET, National Organization for Development of Exceptional Talents, and is the most prestigious highschool in south of Iran.],
+      [Shahid Dastgheib 1 highschool is under the supervision of NODET, National Organization for Development of Exceptional Talents.],
       [GPA: 19.75 / 20]
     )
 )
