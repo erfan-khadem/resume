@@ -4,7 +4,7 @@
 
 #cvEntry(
   title: [Advanced Algorithms in Rust],
-  society: [TheAlgorithms/Rust],
+  society: [#link("github.com/TheAlgorithms/Rust", [#underline("TheAlgorithms/Rust")])],
   date: [2022],
   location: [Github],
   description: list(
@@ -17,32 +17,32 @@
 
 #cvEntry(
   title: [Jungle Marble Blast Clone],
-  society: [er888kh/bp-cpp],
+  society: [#link("github.com/er888kh/bp-cpp", [#underline("bp-cpp")])],
   date: [2023],
   location: [Github],
   description: list(
     [This was the project for our basic-programming course.],
     [Implemented using SDL and Dear ImGui libraries in C++.],
-    [#image("../src/projects/gameplay.png")]
+    //[#image("../src/projects/gameplay.png")]
   )
 )
 
 #cvEntry(
-  title: [Path Tracing Tay-Tracer],
-  society: [er888kh/ptrt],
+  title: [Path Tracing Ray-Tracer],
+  society: [#link("github.com/er888kh/ptrt", [#underline("ptrt")])],
   date: [2022],
   location: [Github],
   description: list(
     [A simple path tracer implemented in pure C++.],
     [Using various statistical and SIMD tricks to improve performance],
     [Parallel processing implemented using OpenMP],
-    [#image("../src/projects/ptrt-week1.jpeg")]
+    //[#image("../src/projects/ptrt-week1.jpeg")]
   )
 )
 
 #cvEntry(
-  title: [SSH VPN with User Management],
-  society: [er888kh/SSH-Liberty-Bridge],
+  title: [SSH Anti-Censorship Tool],
+  society: [#link("github.com/er888kh/ssh-liberty-bridge", [#underline("SSH-liberty-bridge")])],
   date: [2023],
   location: [Github],
   description: list(

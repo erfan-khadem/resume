@@ -6,7 +6,7 @@
   github: "er888kh",
   phone: "+98 921 575 8679",
   email: "erfankhademerkh@gmail.com",
-  //linkedin: "er888kh",
+  linkedin: "erfan-khadem-ab7809250",
   //gitlab: "mintyfrankie",
   //homepage: "jd.me.org",
   //orcid: "0000-0000-0000-0000",

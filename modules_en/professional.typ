@@ -40,8 +40,7 @@
           - Django REST Framework
           - Vue.js
           - Docker
-          - Redis
-          - Postgres
+          - Postgres + Redis
           - Grafana + Prometheus
       ],
     )
@@ -59,14 +58,13 @@
       [Design and implement online product documentation center to improve our customers' experience],
       [
         Technologies:
-          - Microsoft SQL Server
-          - Redis
+          - Microsoft SQL Server + Redis
           - Bootstrap 4 & 5
           - Modbus TCP
           - Protobuf
           - Nginx
       ],
-      [#image("../src/projects/solar-plant.jpg")],
-      [#image("../src/projects/ntcsolar.png")]
+      //[#image("../src/projects/solar-plant.jpg")],
+      //[#image("../src/projects/ntcsolar.png")]
     )
 )
