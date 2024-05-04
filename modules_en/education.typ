@@ -10,7 +10,7 @@
     logo: "../src/logos/sharif.png",
     description: list(
       [Optional Courses: Realtime Embedded Systems #hBar() Operating Systems #hBar() Cryptography #hBar() Advanced Programming],
-      [GPA: 18.07 #hBar() Department Average: 15.72 / 20]
+      [GPA: 18.34 #hBar() Department Average: 15.72 / 20]
     )
 )
 
