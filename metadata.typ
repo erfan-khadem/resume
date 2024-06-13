@@ -3,7 +3,7 @@
 #let firstName = "Erfan"
 #let lastName = "Khadem"
 #let personalInfo = (
-  github: "er888kh",
+  github: "erfan-khadem",
   phone: "+98 921 575 8679",
   email: "erfankhademerkh@gmail.com",
   linkedin: "erfan-khadem-ab7809250",
@@ -15,7 +15,7 @@
 )
 #let headerQuoteInternational = (
   //"": [Experienced Data Analyst looking for a full time job starting from now],
-  "en": [An Electrical Engineering student looking for research oppurtunities],
+  "en": [An Electrical Engineering student looking for research opportunities],
   //"fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant]
 )
 
