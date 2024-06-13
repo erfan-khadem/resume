@@ -21,7 +21,7 @@
   date: [2023],
   location: [Github],
   description: list(
-    [Implemented in go with the user management componenet written in python.],
+    [Implemented in go with the user management component written in python.],
     [Has been used successfully for bypassing GFW restrictions in Iran and bringing internet freedom to the citizens.],
     [Integrated in hiddify's excellent GFW bypass solution.],
   )
