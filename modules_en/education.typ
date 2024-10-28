@@ -9,8 +9,8 @@
     location: [Tehran, Iran],
     logo: "../src/logos/sharif.png",
     description: list(
-      [Optional Courses: Realtime Embedded Systems #hBar() Operating Systems #hBar() Cryptography #hBar() Advanced Programming],
-      [GPA: 18.34 #hBar() Department Average: 15.72 / 20]
+      [Optional Courses: Realtime Embedded Systems #hBar() Operating Systems #hBar() Networks Lab #hBar() Cryptography #hBar() Advanced Programming],
+      [GPA: 18.60, Top 12%]
     )
 )
 
