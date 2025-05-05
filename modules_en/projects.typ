@@ -1,5 +1,7 @@
 #import "../brilliant-CV/template.typ": *
 
+#pagebreak()
+
 #cvSection("Projects & Associations")
 
 #cvEntry(

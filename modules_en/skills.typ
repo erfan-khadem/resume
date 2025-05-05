@@ -4,15 +4,15 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() Persian #hBar() Arabic (basic)]
+  info: [English #hBar() Persian]
 )
 
 #cvSkill(
   type: [Tech Stack],
-  info: [JS (Svelte/Vue.js) #hBar() Python (Pandas/Numpy/Django) #hBar() Rust #hBar() Go #hBar() C/C++ (HW/RTOS/Linux)]
+  info: [JS (Svelte/Vue.js) #hBar() Python (Pandas/Numpy/Scipy/Django) #hBar() Rust #hBar() Go #hBar() C/C++ (HW/FreeRTOS/Linux)]
 )
 
 #cvSkill(
   type: [Hobbies],
-  info: [Mathematics #hBar() Cryptography #hBar() Bicycle #hBar() Electronics]
+  info: [Chess #hBar() Bicycle #hBar() Electronics #hBar() Mathematics]
 )

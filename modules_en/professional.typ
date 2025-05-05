@@ -9,7 +9,7 @@
     date: [2023],
     location: [Tehran, Iran],
     description: list(
-      [Lead a team of computer security experts, electrical engineers and developers to build home automation appliances and smart gateways using TI's Zigbee chips and Espressif System's ESP32 and ESP8266 microcontroller series],
+      [Worked alongside a team of computer security experts, electrical engineers and developers to build home automation appliances and smart gateways using TI's Zigbee chips and Espressif System's ESP32 and ESP8266 microcontroller series],
       [
         Technologies:
           - FreeRTOS

@@ -10,24 +10,61 @@
   subject: "Subject: Job Application for Senior Data Analyst"
 )
 
-Dear Hiring Manager,
+= Letter of Motivation
+//#box(width: 182.0pt, image("./epfl.png"))
 
-I am excited to submit my application for the Senior Data Analyst position at ABC Company. With over 5 years of experience in data analysis and a demonstrated track record of success, I am confident in my ability to make a valuable contribution to your team.
+Dear Sir or Madam,
 
-In my current role as a Data Analyst at XYZ Company, I have gained extensive experience in data mining, quantitative analysis, and data visualization. Through my work, I have developed a deep understanding of statistical concepts and have become adept at using tools such as SQL, Python, and R to extract insights from complex datasets. I have also gained valuable experience in presenting complex data in a visually appealing and easily accessible manner to stakeholders across all levels of an organization.
+As an undergraduate student of Electrical Engineering at Sharif
+University of Technology, a curious learner with a great predisposition
+toward wireless communication and data security, I am writing to express
+my interest in the summer internship position at EPFL.
 
-I believe that my experience in data analysis makes me an ideal candidate for the Senior Data Analyst position at ABC Company. I am particularly excited about the opportunity to apply my skills to support your organization's mission and drive impactful insights. Your focus on driving innovative solutions to complex problems aligns closely with my own passion for using data analysis to drive positive change in organizations.
+Throughout my studies in electrical engineering, I have primarily
+focused in the areas of wireless sensing and security applications with
+occasional forays into electronics and circuit design. I have led
+several projects using signal processing and data analysis techniques,
+such as a recent research project that employed Principal Component
+Analysis coupled with the Lomb-Scargle method to analyze WiFi Channel
+State Information taken from commodity hardware for the purpose of
+breathing analysis. Additionally, in the context of cybersecurity, I
+developed a versatile utility for censorship circumvention which is
+currently in widespread use in Iran. These experiences enhanced my core
+engineering skills: the ability to troubleshoot, adapt to challenges,
+and analyze real-world applications.
 
-In my current role, I have been responsible for leading data projects from initiation to completion. I work closely with cross-functional teams to identify business problems and use data to develop solutions that drive business outcomes. I have a proven track record of delivering high-quality work on time and within budget.
+During my academic journey, I have been deeply inspired by the
+groundbreaking contributions of the many great minds that have enabled
+the likes of Moore and Dennard’s scaling trends. This has inspired me to
+seek the privilege of working under the supervision of the likes of
+professor Andreas Burg and Babak Falsafi. Professor Burg’s work on low
+power VLSI signal processing and hardware implementation of
+communication algorithms resonates strongly with my experience in
+WiFi-CSI analysis and my passion for wireless sensing technologies.
+Additionally, Professor Falsafi’s pioneering research on scalable
+computing aligns with my interest in exploring new architectures and
+hardware-software interaction for modern computational challenges. The
+excellent work of these gentlemen motivates me to deepen my expertise in
+both wireless systems and computational architecture and exemplify the
+kind of impactful research I want to have in my future career.
 
-Furthermore, I have extensive experience in developing and implementing data-driven solutions that improve business operations. For example, I have implemented predictive models that have improved sales forecasting accuracy by 10%, resulting in significant cost savings. I have also developed dashboards that provide real-time insights into business performance, enabling stakeholders to make more informed decisions.
+In my final words, I want to emphasize that beyond my technical
+expertise, I am a proactive problem solver, and a fast learner with a
+computer science background. Most important of all, my ongoing role as
+the head TA of the computer architecture laboratory has underpinned my
+passion for team work in the context of academia; therefore, I consider
+my professional and educational experience to be in good concordance
+with the ethos of this internship program. I am excited about the
+possibility of contributing to and learning from experts at EPFL and I
+am confident that this opportunity will be an important stride in my
+professional and personal growth.
 
-As a highly motivated and detail-oriented individual, I am confident that I would thrive in the fast-paced and dynamic environment at ABC Company. I am excited about the opportunity to work with a talented team of professionals and to continue developing my skills in data analysis.
-
-Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+Thank you for considering my application.
 
 Sincerely,
 
-#letterSignature("/src/signature.png")
+Erfan Khadem
+
+
 #letterFooter()
 
