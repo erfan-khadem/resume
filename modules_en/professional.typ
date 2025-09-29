@@ -13,10 +13,9 @@
       [
         Technologies:
           - FreeRTOS
+          - Zigbee
           - Websocket
-          - Nodejs
           - Embedded Linux
-          - Svelte
       ]
     )
 )

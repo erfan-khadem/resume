@@ -9,7 +9,7 @@
     location: [Tehran, Iran],
     logo: "../src/logos/sharif.png",
     description: list(
-      [Optional Courses: Operating Systems Lab #hBar() Networks Lab #hBar() Cryptography #hBar() Compressed Sensing #hBar() Graphical Models],
+      [Optional Courses: $ $ DSP #hBar() Compressed Sensing #hBar() Operating Systems Lab #hBar() Networks Lab #hBar() Cryptography #hBar() Graphical Models],
       [GPA: 18.60 / 20, Top 12%],
       [GPA of EE Courses: 19.15 / 20, Top 8%]
     )

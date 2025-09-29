@@ -8,8 +8,8 @@
 )
 
 #cvSkill(
-  type: [Tech Stack],
-  info: [JS (Svelte/Vue.js) #hBar() Python (Pandas/Numpy/Scipy/Django) #hBar() Rust #hBar() Go #hBar() C/C++ (HW/FreeRTOS/Linux)]
+  type: [Software Stack],
+  info: [C/C++ (Embedded/FreeRTOS/Linux) #hBar() Python (Pandas/Numpy/Scipy/Django) #hBar() JS (Svelte/Vue.js) #hBar() Rust #hBar() Go]
 )
 
 #cvSkill(

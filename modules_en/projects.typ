@@ -5,14 +5,27 @@
 #cvSection("Projects & Associations")
 
 #cvEntry(
+  title: [RP2040 based Intel 8080 emulator],
+  society: [#link("https://github.com/erfan-khadem/rpi8080", [#underline("erfan-khadem/rpi8080")])],
+  date: [2024-2026],
+  location: [Github],
+  description: list(
+    [Implemented a full-fledged Intel 8080 emulator on the Raspberry Pi Foundation's RP2040.],
+    [The project has been used since Spring 2024 in the computer architecture laboratory for educational purposes.],
+    [On-chip debugger, virtual input and output ports and accompanying PC software for ease of use.]
+  )
+)
+
+#cvEntry(
   title: [Breathing Rate Detection Using WiFi Channel State Information],
-  society: [In the Process of Publication],
+  society: [A Hobby Project],
   date: [2024],
-  location: [Demo Available on Request],
+  location: [],
   description: list(
     [Breathing rate detection using a common off the shelf intel network card.],
     [Achieves an accuracy of more than 98 % even in highly congested areas.],
     [Runs transparently and does not disrupt the normal user activity.],
+    [Uses ICA for Blind Source Separation]
     //[#image("../src/projects/gameplay.png")]
   )
 )
@@ -25,20 +38,8 @@
   description: list(
     [A highly linear, optically isolated analog voltage isolator using `HCNR201`.],
     [Achieves a maximum signal bandwidth of more than $1 "MHz"$.],
-    [Less than $-70 "dB"$ THD at $1 "KHz"$ and full swing.],
+    [Less than $-70 "dB"$ THD at $1 "kHz"$ and full swing.],
     [PCB was designed using KiCAD.],
-  )
-)
-
-#cvEntry(
-  title: [RP2040 based Intel 8080 emulator],
-  society: [#link("https://github.com/erfan-khadem/rpi8080", [#underline("erfan-khadem/rpi8080")])],
-  date: [2024],
-  location: [Github],
-  description: list(
-    [Implemented a full-fledged Intel 8080 emulator on the Raspberry Pi Foundation's RP2040.],
-    [The project has been used since Spring 2024 in the computer architecture laboratory for educational purposes.],
-    [On-chip debugger, virtual input and output ports and accompanying PC software for ease of use.]
   )
 )
 
