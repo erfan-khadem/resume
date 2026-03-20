@@ -63,7 +63,7 @@ language = "en"
         # orcid = "0000-0000-0000-0000"
         # researchgate = "John-Doe"
         # extraInfo = "I am a cool kid"
-        [personal.info.custom-1]
+        # [personal.info.custom-1]
             # image = "" # Example: image("./path/to/image.png")
             # awesomeIcon = "graduation-cap" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
             # text = "PhD"
@@ -73,7 +73,7 @@ language = "en"
 # i.e. [[lang.ru]]
 # each section must contains the following fields
 [lang.en]
-    header_quote = "An Undergraduate EE Student Looking for Research Opportunities"
+    header_quote = "An EE student, troubleshooting oscillators that don't and amplifiers that do"
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 
