@@ -3,6 +3,26 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
+    title: [Embedded Hardware and Software Developer],
+    society: [BIOSEN Group],
+    logo: "../src/logos/biosen.png",
+    date: [2025-2026],
+    location: [Tehran, Iran],
+    description: list(
+      [Developed and worked on a Gel Doc medical imaging system used for visualization and characterization
+      of proteins and nucleic acids (RNA / DNA). This involved optimizing the firmware on the hardware side
+      and writing a cross-platform user interface with image processing capabilities.],
+      [
+        Technologies:
+          - Embedded C / C++
+          - Video Hardware Encoding / Decoding
+          - OpenCV
+          - Realtime PC-MicroController Communication
+      ]
+    )
+)
+
+#cvEntry(
     title: [Embedded Hardware and Backend Developer],
     society: [Home Automation Project at National Elites Foundation],
     logo: "../src/logos/bmn.png",
@@ -42,6 +62,7 @@
     )
 )
 
+/*
 #cvEntry(
     title: [Fullstack Developer and Systems Administrator],
     society: [Niroutrans Co.],
@@ -63,3 +84,4 @@
       //[#image("../src/projects/ntcsolar.png")]
     )
 )
+*/

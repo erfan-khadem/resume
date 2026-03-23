@@ -4,7 +4,7 @@
 
 #cvEntry(
   title: [Non-Uniform R-2R DAC Design],
-  society: [Publication Pending Submission],
+  society: [Publication Pending Review],
   date: [2025],
   location: [IEEE TIM],
   description: list(
@@ -47,9 +47,9 @@
 
 #cvEntry(
   title: [PRISM: A new scheduling method for single-hop network discovery],
-  society: [Publication Pending Review],
+  society: [Pending Submission],
   date: [2025],
-  location: [InfoCom 2026],
+  location: [],
   description: list(
     [A deterministic neighbor discovery framework for single-hop wireless networks],
     [Achieves $O(L(1+delta)log K)$ discovery time with High Probability, $O(L^2 log K)$ deterministic performance],

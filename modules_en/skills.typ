@@ -53,7 +53,7 @@
 
 #myCvSkill(
   type: [Languages],
-  info: [Persian (Native) #hBar() English (TOEFL 106/120 #hBar() L:29, R:30, W:25, S:22)]
+  info: [Persian (Native) #hBar() English (TOEFL 106/120 --- L:29, R:30, W:25, S:22)]
 )
 
 #par([])
